@@ -1,6 +1,6 @@
 ---
 name: find-task
-description: Use when the user asks Claude to pick or suggest a task to work on across their tracked projects. Triggers include "find me a task", "what should I work on", "pick me something fun/quick/meaty", "something fresh to dig into", "help me find something to do". Queries projdash for open tasks across ACTIVE projects, then selects a handful matching the user's stated mood and presents them with one-line reasoning. Requires the projdash MCP server to be available.
+description: Use when the user asks the agent to pick or suggest a task to work on across their tracked projects. Triggers include "find me a task", "what should I work on", "pick me something fun/quick/meaty", "something fresh to dig into", "help me find something to do". Queries projdash for open tasks across ACTIVE projects, then selects a handful matching the user's stated mood and presents them with one-line reasoning. Requires the projdash MCP server to be available.
 ---
 
 # Finding a Task
